@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WxInterface"
+  id="myeclipse.1470062520414"
+  context-root="/WxInterface"
+  j2ee-spec="5.0"
+  archive="WxInterface.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
